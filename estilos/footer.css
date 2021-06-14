@@ -88,12 +88,3 @@ h2 {
     padding: 10px 12px;
     font-size: 20px;
 }
-
-@media screen and (min-width: 600px) {
-    .footer-right > *{
-        flex: 1;
-    }
-    .footer-left {
-        flex: 1 0px;
-    }
-}
