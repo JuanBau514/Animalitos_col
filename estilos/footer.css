@@ -96,17 +96,4 @@ h2 {
     .footer-left {
         flex: 1 0px;
     }
-    .footer-right{
-        flex: 2 0px;
-    }
 }
-
-@media (max-width: 600px ) {
-    .footer{
-        padding: 15px;
-    }
-    main {
-        font-size: 55px;
-    }
-}
-
