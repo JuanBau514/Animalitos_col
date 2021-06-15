@@ -7,3 +7,8 @@ Estoy aprendiendo js y muchas otras cosas
 
 hoy hablaremos de los animales que conoce
 se va a ser un incapie en los animales de la region oriental de colombia 
+
+
+hola Estoy aprendiendo acerca de los clones en repositorios de git hub
+esta version no hace muchos
+
