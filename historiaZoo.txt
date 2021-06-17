@@ -5,6 +5,9 @@ gatos vacas elefantes y muchos animales
 el texto fue hecho por juan bautista
 Estoy aprendiendo js y muchas otras cosas
 
+hola extoy haciendo experimentos 
+no se a que se refieran xcon git rebase
+
 hoy hablaremos de los animales que conoce
 se va a ser un incapie en los animales de la region oriental de colombia 
 
